@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4AB2F1</color>
+    <color name="colorPrimaryDark">#2484BE</color>
+    <color name="colorAccent">#195477</color>
+
+    <color name="colorLightPrimary">#ecf7fd</color>
+
+    <color name="addToCartButtonPressed">#248ece</color>
+    <color name="addToCartButton">#4ab2f1</color>
+
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+
+    <color name="grayColor">#ddd</color>
+
+    <color name="yellowRatingBar">#f2df64</color>
+    <color name="grayRatingBar">#b2b2b2</color>
+</resources>
